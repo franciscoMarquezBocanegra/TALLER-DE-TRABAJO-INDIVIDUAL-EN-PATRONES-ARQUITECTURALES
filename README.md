@@ -47,7 +47,7 @@ Corremos los siguientes comando
 
 Ahora debemos clonar el otro repositorio donde tendremos el round robin
 
-[![Repo donde esta Round robin](https://github.com/franciscoMarquezBocanegra/RoundBound)]
+[![Repositorio donde esta Round robin](https://github.com/franciscoMarquezBocanegra/RoundBound)]
 
 Y hacemos los mismos pasos
 
@@ -80,7 +80,8 @@ una vez tenga todo lo anterior hecho, asegurate estar en el directorio raiz de e
 
 con esto nos dirigimos al http://localhost:8080/app.html y nos carga algo asi:
 
-![image](![alt text](image.png))
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DE-TRABAJO-INDIVIDUAL-EN-PATRONES-ARQUITECTURALES/assets/98216991/f339abfc-21c4-4207-b2a6-3e7d84585375)
+
 
 
 ---
@@ -96,7 +97,8 @@ Ejecutamos el comando
 ### Arquitectura del programa.
 
 
-![image](![alt text](image-1.png))
+![image](https://github.com/franciscoMarquezBocanegra/TALLER-DE-TRABAJO-INDIVIDUAL-EN-PATRONES-ARQUITECTURALES/assets/98216991/9f5a10c4-31b0-4f83-a975-1696619231e3)
+
 
 Esta arquitectura se basa en tres componentes realmente:
 
